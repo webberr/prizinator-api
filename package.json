@@ -16,8 +16,11 @@
     "url": "https://github.com/webberr/prizinator-api/issues"
   },
   "homepage": "https://github.com/webberr/prizinator-api",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "good": "^6.0.0",
+    "good-console": "^4.1.0",
     "hapi": "^8.4.0",
-    "joi": "^6.1.0"
+    "meetup-api": "^0.1.21"
   }
 }
